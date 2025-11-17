@@ -141,7 +141,4 @@ Untuk masalah atau pertanyaan, silakan periksa:
 - Konfigurasi kunci API Anda
 - Konsol browser untuk pesan kesalahan
 - Konektivitas jaringan
-
----
-
-**Selamat Belajar!** 🧪⚛️
+️
