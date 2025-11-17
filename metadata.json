@@ -1,0 +1,5 @@
+{
+  "name": "Periodic Table Tutor",
+  "description": "An intelligent tutoring system that provides interactive lessons about the periodic table, powered by Gemini.",
+  "requestFramePermissions": []
+}
